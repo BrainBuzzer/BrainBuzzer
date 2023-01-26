@@ -5,4 +5,4 @@ I am Aditya. I just like to code, and come up with innovative solutions for regu
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BrainBuzzer.visitor-badge&left_color=green&right_color=red)
