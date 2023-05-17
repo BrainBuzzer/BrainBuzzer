@@ -5,15 +5,15 @@ I am Aditya. I just like to code, and come up with innovative solutions for regu
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2020 - To: 14 May 2023
+From: 30 January 2020 - To: 15 May 2023
 
-Total Time: 1,159 hrs 4 mins
+Total Time: 1,160 hrs 22 mins
 
-JavaScript                 337 hrs 58 mins >>>>>>>------------------   29.16 %
-PHP                        251 hrs 26 mins >>>>>--------------------   21.69 %
-TypeScript                 63 hrs 35 mins  >------------------------   05.49 %
-Go                         61 hrs 25 mins  >------------------------   05.30 %
-Other                      53 hrs 2 mins   >------------------------   04.58 %
+JavaScript                 337 hrs 58 mins >>>>>>>------------------   29.13 %
+PHP                        252 hrs 44 mins >>>>>--------------------   21.78 %
+TypeScript                 63 hrs 35 mins  >------------------------   05.48 %
+Go                         61 hrs 25 mins  >------------------------   05.29 %
+Other                      53 hrs 2 mins   >------------------------   04.57 %
 ```
 
 <!--END_SECTION:waka-->
