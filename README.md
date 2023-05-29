@@ -5,7 +5,7 @@ I am Aditya. I just like to code, and come up with innovative solutions for regu
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2020 - To: 26 May 2023
+From: 30 January 2020 - To: 27 May 2023
 
 Total Time: 1,179 hrs 32 mins
 
