@@ -2,6 +2,8 @@
 
 I am Aditya. I just like to code, and come up with innovative solutions for regular problems.
 
+Please note that a lot of work I do is on Gitlab and other branches than master, so my contribution graph will be complete mess.
+
 <!--START_SECTION:waka-->
 
 ```text
