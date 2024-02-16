@@ -20,4 +20,4 @@ TypeScript                 64 hrs 18 mins  >------------------------   03.49 %
 
 <!--END_SECTION:waka-->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BrainBuzzer.visitor-badge&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=BrainBuzzer)
