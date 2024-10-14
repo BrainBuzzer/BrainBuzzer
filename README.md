@@ -7,15 +7,15 @@ Please note that a lot of work I do is on Gitlab and other branches than master,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2020 - To: 11 October 2024
+From: 30 January 2020 - To: 13 October 2024
 
-Total Time: 2,307 hrs 45 mins
+Total Time: 2,312 hrs 41 mins
 
-Other                      645 hrs 51 mins >>>>>>>------------------   27.99 %
-JavaScript                 357 hrs 43 mins >>>>---------------------   15.50 %
-PHP                        318 hrs 46 mins >>>----------------------   13.81 %
-Go                         315 hrs 41 mins >>>----------------------   13.68 %
-TypeScript                 130 hrs 18 mins >------------------------   05.65 %
+Other                      648 hrs 3 mins  >>>>>>>------------------   28.02 %
+JavaScript                 357 hrs 43 mins >>>>---------------------   15.47 %
+PHP                        318 hrs 46 mins >>>----------------------   13.78 %
+Go                         317 hrs 28 mins >>>----------------------   13.73 %
+TypeScript                 130 hrs 18 mins >------------------------   05.63 %
 ```
 
 <!--END_SECTION:waka-->
