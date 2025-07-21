@@ -7,7 +7,7 @@ Please note that a lot of work I do is on Gitlab and other branches than master,
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2020 - To: 19 July 2025
+From: 30 January 2020 - To: 20 July 2025
 
 Total Time: 2,906 hrs 37 mins
 
